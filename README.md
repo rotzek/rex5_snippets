@@ -1,0 +1,1 @@
+# Snippets für REDAXO5
