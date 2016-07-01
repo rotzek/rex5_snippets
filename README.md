@@ -1,1 +1,1 @@
-# Snippets für REDAXO5
+# Snippets für REDAXO 5
